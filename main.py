@@ -9,7 +9,7 @@ logger.setLevel(logging.DEBUG)
 logger_file_handler = logging.handlers.RotatingFileHandler(
     "quotes.log",
     maxBytes=1024 * 1024,
-    backupCpyount=1,
+    backupCount=1,
     encoding="utf8",
 )
 formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
