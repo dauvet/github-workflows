@@ -352,3 +352,5 @@ Alice: Which way should I go?
 Cat: That depends on where you are going.
 Alice: I don’t know.
 Cat: Then it doesn’t matter which way you go.
+2024-01-13 08:28:47,019 - __main__ - INFO - Token value: 123
+2024-01-13 08:28:48,686 - __main__ - INFO - Just remember all caps when you spell the man name
