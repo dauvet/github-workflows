@@ -524,3 +524,6 @@ Alice: Which way should I go?
 Cat: That depends on where you are going.
 Alice: I don’t know.
 Cat: Then it doesn’t matter which way you go.
+2024-01-16 16:33:49,254 - __main__ - INFO - Token value: 123
+2024-01-16 16:33:50,757 - __main__ - INFO - Wake up and smell the coffee
+Is your cup half full or empty?
