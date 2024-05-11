@@ -3729,3 +3729,9 @@ Don't make it factual.
 2024-05-11 17:27:14,092 - __main__ - INFO - In order to see the boundaries of the probabilities, need to try impossible.
 2024-05-11 18:29:08,069 - __main__ - INFO - Token value: 123
 2024-05-11 18:29:09,093 - __main__ - INFO - Education doesn't make you smarter.
+2024-05-11 19:24:03,807 - __main__ - INFO - Token value: 123
+2024-05-11 19:24:04,397 - __main__ - INFO - Cat: Where are you going?
+Alice: Which way should I go?
+Cat: That depends on where you are going.
+Alice: I don’t know.
+Cat: Then it doesn’t matter which way you go.
